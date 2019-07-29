@@ -2,6 +2,8 @@
 
 Full Project Description: [Link](https://github.com/karlptrck/swop)
 
+Additional Info: [DevPost](https://devpost.com/software/swop)
+
 ### TestNet Deployment Details (Ropsten)
 
 #### PublicEntry.sol
